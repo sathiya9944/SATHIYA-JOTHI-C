@@ -51,7 +51,7 @@
 
 ### 📡 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2a2c3c?style=for-the-badge&logo=linkedin&logoColor=82b1ff)](www.linkedin.com/in/sathiyajothi007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2a2c3c?style=for-the-badge&logo=linkedin&logoColor=82b1ff)]([www.linkedin.com/in/sathiyajothi007](https://www.linkedin.com/in/sathiyajothi007/))
 [![Gmail](https://img.shields.io/badge/Gmail-2a1a1a?style=for-the-badge&logo=gmail&logoColor=ff8a80)](mailto:sathiyajothic@gmail.com)
 
 ---
