@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=66FFF0&center=true&vCenter=true&width=600&lines=Hello!+I'm+C.+Sathiya+Jothi+!;MCA+Grad+%7C+Code+Astronaut+%7C;Launching+tech+from+Earth+to+Infinity+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=66FFF0&center=true&vCenter=true&width=600&lines=Hello!+I'm+C.+Sathiya+Jothi+!;MCA+Grad+%7C+Code+Astronaut;Launching+tech+from+Earth+to+Infinity+🚀" />
 </p>
 
 
 <h1 align="center">🪐 Hey Earthlings, I'm C. Sathiya Jothi</h1>
-<h3 align="center">Software Developer 🌍</h3>
+<h3 align="center">Software Developer 🌟</h3>
 
 <p align="center">
   I travel through the stars of Java, launch Flutter rockets, and deploy ideas into the cloud ☁️  
