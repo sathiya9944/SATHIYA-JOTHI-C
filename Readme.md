@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=66FFF0&center=true&vCenter=true&width=600&lines=Hello+🌌+I'm+C.+Sathiya+Jothi!;MCA+Grad+%7C+Code+Astronaut+%7C+Exploring+AI+and+DevOps;Launching+tech+from+Earth+to+Infinity+%F0%9F%9A%80"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=66FFF0&center=true&vCenter=true&width=600&lines=Hello!+I'm+C.+Sathiya+Jothi+!;MCA+Grad+%7C+Code+Astronaut+%7C+Exploring+AI+and+DevOps;Launching+tech+from+Earth+to+Infinity+🚀" />
 </p>
+
 
 <h1 align="center">🪐 Hey Earthlings, I'm C. Sathiya Jothi</h1>
 <h3 align="center">Software Developer 🌍</h3>
