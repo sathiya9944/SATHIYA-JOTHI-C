@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=66FFF0&center=true&vCenter=true&width=600&lines=Hello!+I'm+C.+Sathiya+Jothi+!;MCA+Grad+%7C+Code+Astronaut+%7C+Exploring+AI+and+DevOps;Launching+tech+from+Earth+to+Infinity+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=66FFF0&center=true&vCenter=true&width=600&lines=Hello!+I'm+C.+Sathiya+Jothi+!;MCA+Grad+%7C+Code+Astronaut+%7C;Launching+tech+from+Earth+to+Infinity+🚀" />
 </p>
 
 
@@ -16,10 +16,10 @@
 ---
 
 ### 🌠 Current Missions
-- 🛠 Building: Decentralized Voting System, AI-Powered Debugging Tutor  
-- 🤖 Exploring: Prompt Engineering, Generative AI, CI/CD with Docker & Jenkins  
+ 
+- 🤖 Exploring: Prompt Engineering, CI/CD with Docker & Jenkins  
 - 📱 Creating: Cross-platform Flutter Apps with Firebase in real time  
-- ☁️ Deploying: Scalable systems with Node.js & cloud services  
+ 
 
 ---
 
